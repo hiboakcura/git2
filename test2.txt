@@ -1,1 +1,3 @@
 3. işlem başlangıcı için gerekli işlemler
+
+4. işlem başlangıcı için gerekli işlemler
